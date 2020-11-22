@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on self-improvment automatisation project like AutoPass
 - 🌱 I’m currently learning Python and basic of flutter
-- 🤔 I’m looking for getting experience
+- 🤔 I’m looking for getting some experience
 - 📫 How to reach me: https://www.facebook.com/maksym.kokocinski
 - ⚡ Fun fact: I'm really into self-improvment
 <br />
