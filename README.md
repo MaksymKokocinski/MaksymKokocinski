@@ -1,8 +1,6 @@
 ### Hi, I'm Maksym Kokociński 👋
 
 
-## I'm a Student !
-
 - 🔭 I’m currently working on self-improvment automatisation project like AutoPass
 - 🌱 I’m currently learning Python and basic of flutter
 - 🤔 I’m looking for getting some experience
