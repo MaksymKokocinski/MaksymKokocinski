@@ -1,11 +1,12 @@
 ### Hi, I'm Maksym Kokociński 👋
 
 
-- 🔭 I’m currently working on Password Manager and protected Note App
-- 🌱 I’m currently learning Python and basic of flutter
-- 🤔 I’m looking for getting some experience
+- 🔭 I’m currently working on Django CRM
+- ⚡ My best project so far is Password Manager
+- 🌱 I’m currently learning Django and Docker
 - 📫 How to reach me: https://www.facebook.com/maksym.kokocinski
-- ⚡ Fun fact: I'm really into self-improvment
+- 🤔 I’m looking for getting some experience
+
 <br />
 
 ### Languages and Tools:
