@@ -1,8 +1,8 @@
 ### Hi, I'm Maksym Kokociński 👋
 
 
-- 🔭 I’m currently working on Django CRM
-- ⚡ My best project so far is Password Manager
+- 🔭 I’m currently working on Optifolio
+- ⚡ My best project so far is Optifolio
 - 🌱 I’m currently learning Django and Docker
 - 📫 How to reach me: https://www.facebook.com/maksym.kokocinski
 - 🤔 I’m looking for getting some experience
