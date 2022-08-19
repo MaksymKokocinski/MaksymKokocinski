@@ -1,11 +1,11 @@
 ### Hi, I'm Maksym Kokociński 👋
 
 
-- 🔭 I’m currently working on Optifolio
-- ⚡ My best project so far is Optifolio
-- 🌱 I’m currently learning Django and Docker
-- 📫 How to reach me: https://www.facebook.com/maksym.kokocinski
-- 🤔 I’m looking for getting some experience
+- 🔭 I’m currently working in Billon as Project Manager
+- ⚡ My best project as a programist is Optifolio
+- 🌱 I’m currently expanding my knowledge about blockchain
+- 🤔 I’m always looking for new intresting projects, which can help me grow
+- 📫 How to reach me: https://www.linkedin.com/in/maksym-kokoci%C5%84ski-54a033207/
 
 <br />
 
