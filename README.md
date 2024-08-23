@@ -1,14 +1,3 @@
-### Hi, I'm Maksym Kokociński 👋
-
-
-- 🔭 I’m currently working in Billon as Project Manager
-- ⚡ My best project as a programist is Optifolio
-- 🌱 I’m currently expanding my knowledge about blockchain
-- 🤔 I’m always looking for new intresting projects, which can help me grow
-- 📫 How to reach me: https://www.linkedin.com/in/maksym-kokoci%C5%84ski-54a033207/
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
